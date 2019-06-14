@@ -40,3 +40,14 @@ $ history
    38  git commit -m "readme.tzt"
    39  git push
    40  history
+   41  git remote -v
+		origin  git@github.com:clncln/learngit.git (fetch)
+		origin  git@github.com:clncln/learngit.git (push)
+   42  git remote set-url origin https://github.com/clncln/learngit.git
+   43  $ git remote -v
+		origin  https://github.com/clncln/learngit.git (fetch)
+		origin  https://github.com/clncln/learngit.git (push)
+
+   
+   
+
